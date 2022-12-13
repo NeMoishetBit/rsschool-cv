@@ -1,7 +1,7 @@
 ## rsschool-cv
----
+
 ## Valery Kiselev
----
+
 ### **Junior Frontend Developer**(In the near future)
 ---
 ### **Contact information:**
