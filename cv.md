@@ -9,6 +9,8 @@
 
 **E-mail:** trogvarfd@gmail.com
 
+**Discord:** Valery Kiselev (@NeMoishetBit)
+
 ---
 ### **About Me**
 
