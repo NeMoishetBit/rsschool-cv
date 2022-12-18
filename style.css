@@ -11,7 +11,7 @@ html {
   scroll-behavior: smooth; 
 }
 
-/* Applies to the body of the HTML document */
+/* Applies to the body of this HTML document */
 body {
   min-height: 100vh;
   min-width: 320px;
