@@ -77,7 +77,16 @@ body {
 }
 
 .my-photo {
+  margin-left: 35px;
   width: 200px;
+}
+
+.profile-title {
+  margin-left: 35px;
+}
+
+.frame-contacts {
+  margin-left: 35px;
 }
 
 .name {
